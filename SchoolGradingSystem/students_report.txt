@@ -1,0 +1,8 @@
+Mosse Djanta (ID: 11223344): Score = 84, Grade = A
+Paul Awuah (ID: 10267482): Score = 72, Grade = B
+Michael Ofori (ID: 11347738): Score = 49, Grade = F
+Kwame Mensah (ID: 11225674): Score = 90, Grade = A
+Ama Serwaa (ID: 11456789): Score = 65, Grade = C
+Kofi Boateng (ID: 13456786): Score = 88, Grade = A
+Akosua Abena (ID: 11234567): Score = 95, Grade = A
+Yaw Owusu (ID: 11345778): Score = 78, Grade = B
